@@ -1,3 +1,7 @@
+"""
+Tuve complicaciones al subir el archivo, no se podia abrir en mi laptop
+"""
+
 from productos import productos
 from login import main
 from clientes import gestionClientes
